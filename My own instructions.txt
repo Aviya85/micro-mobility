@@ -1,0 +1,6 @@
+1. Anaconda prompt:
+	conda activate scooters
+	cd C:\Users\aviyaoh\Downloads\csv_and_merge_files
+	python
+	pip install -r requirements.txt
+2. Select scooters karnel in python

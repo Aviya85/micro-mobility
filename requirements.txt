@@ -1,0 +1,10 @@
+pandas
+seaborn
+statsmodels
+shapely
+folium
+selenium 
+openpyxl
+geopandas
+xgboost
+shap
